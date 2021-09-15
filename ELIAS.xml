@@ -1,0 +1,25 @@
+<keymap version="1" name="ELIAS" parent="$default">
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+  </action>
+  <action id="EditorSelectSingleLineAtCaret">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000f9" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="Kotlin.RunScratch" />
+  <action id="Vcs.ToggleAmendCommitMode" />
+</keymap>
